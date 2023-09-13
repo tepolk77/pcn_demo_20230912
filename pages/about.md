@@ -12,16 +12,15 @@ credits: true
 
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
-## About the Collection
+## Sobre la Collección
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
+Somos una dinámica organizativa de Comunidades negra que se consolida a principios de los años 90, luego de un largo camino y la unión de varios esfuerzos al interior del movimiento social, para influir en la Constituyente de 1991, con la cual Colombia adquiere la denominación de nación “pluriétnica y multicultural”; articulamos a más de 120 organizaciones de base, consejos comunitarios y personas, que trabajan constantemente en la transformación de la realidad política, social, económica y territorial de las comunidades negras, afrodescendientes, raizales y palenqueras, mediante la defensa y reivindicación de sus derechos colectivos, ancestrales e individuales, basados en nuestros principios orientadores: Reafirmación del ser (Identidad), Espacio para ser (Territorio), Ejercicio del ser (Participación y autonomía), opción propia de futuro (Desarrollo Propio), Solidaridad con las luchas del pueblo negro en el mundo, Reparación histórica y Género y Generación.
 
-- a CSV of collection metadata
+Estamos conformados por palenques regionales en los lugares con mayor presencia de comunidad negra y equipos de trabajo u oficinas en algunas otras ciudades, así: Palenque Regional el congal, sede principal del PCN, está ubicado en el Departamento del Valle del Cauca, con su oficina en el Distrito Especial de Buenaventura; Palenque Kurrulao en el Departamento de Nariño, con su oficina en el municipio de Tumaco; Palenque Alto Cauca en el norte del departamento del Cauca, con oficina en Santander de Quilichao y Puerto Tejada; Palenque Kusutu en la región caribe, con su oficina en la ciudad de Cartagena; equipo de trabajo del Valle de Aburrá en Medellín, equipo de trabajo de Magdalena medio en la ciudad de Barrancabermeja y el equipo de trabajo de Bogotá.
 - a folder of JPG images or PDF documents
 
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
+ 
 
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
 
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+
+
