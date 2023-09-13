@@ -1,5 +1,5 @@
 ---
-title: Browse
+title: Explora la colección
 layout: browse
 permalink: /browse.html
 # see _data/config-browse.csv for display options
