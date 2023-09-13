@@ -20,14 +20,14 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: CollectionBuilder-GH 
+title: Colección Dinamicas Organizativas del Pueblo Negro en Colombia 
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: a template for creating simple digital exhibits
+tagline: Colección de fotografias del Proceso de Comunidades Negras
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-GH is a template for creating small digital collection exhibits on GitHub Pages designed for teaching digital library skills"
+description: "La colección contiene información sobre las dinámicas organizativas de reivindicación de derechos étnicos territoriales de las comunidades negras en Colombia, desde finales de los 80´s y principios de los 90´s hasta hoy, que responden a las siguientes categorías: Territorio y medio ambiente, Género y generación, Derechos humanos, Étno educación, Étno desarrollo, Legislación Étnica."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+author: Proceso de Comunidades Negras
 
 ##########
 # COLLECTION SETTINGS
