@@ -12,7 +12,7 @@ credits: true
 
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
-## Sobre la Collección
+## Sobre la Colección
 
 Somos una dinámica organizativa de Comunidades negra que se consolida a principios de los años 90, luego de un largo camino y la unión de varios esfuerzos al interior del movimiento social, para influir en la Constituyente de 1991, con la cual Colombia adquiere la denominación de nación “pluriétnica y multicultural”; articulamos a más de 120 organizaciones de base, consejos comunitarios y personas, que trabajan constantemente en la transformación de la realidad política, social, económica y territorial de las comunidades negras, afrodescendientes, raizales y palenqueras, mediante la defensa y reivindicación de sus derechos colectivos, ancestrales e individuales, basados en nuestros principios orientadores: Reafirmación del ser (Identidad), Espacio para ser (Territorio), Ejercicio del ser (Participación y autonomía), opción propia de futuro (Desarrollo Propio), Solidaridad con las luchas del pueblo negro en el mundo, Reparación histórica y Género y Generación.
 
